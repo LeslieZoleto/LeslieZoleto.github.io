@@ -1,0 +1,32 @@
+.top {
+    display: flex;
+    justify-content: space-around;
+}
+
+.enchilada {
+    height: 500px;
+
+}
+
+.title {
+    text-align: center;
+    line-height: 400px;
+    color: #ffe6a7;
+    font-weight: bold;
+}
+
+body {
+    background-color: #fefaea;
+}
+
+footer {
+    background-color: #226f54;
+}
+
+header {
+    background-color: #87c38f;
+}
+
+h2 {
+    color: #bc4749;
+}

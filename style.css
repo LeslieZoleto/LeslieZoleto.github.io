@@ -10,7 +10,7 @@
 }
 
 .maize {
-    opacity: 0.7;
+    opacity: 0.5;
     height: 500px;
 }
 
@@ -19,7 +19,7 @@
     list-style-type: none;
     justify-content: space-evenly;
     background-color: #bc4749;
-    height: 50px;
+    height: 60px;
     font-size: large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
